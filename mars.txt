@@ -1,4 +1,4 @@
-mars is a planet. 
+mars is a planet, it appears red.
 it's close. 
 we should exploit it. 
 
